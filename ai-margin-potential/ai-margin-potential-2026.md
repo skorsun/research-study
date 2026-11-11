@@ -406,7 +406,7 @@ They are now in the Glossary.
 
 ## Data and code
 
-The data files and scripts are available from the author: `fetch_sec.py` (SEC XBRL), `build_panel.py` (panel and models), `score.py` (score and test). All values marked as calculated are the author's arithmetic from the listed sources.
+The data files and scripts are in the public repository <https://github.com/skorsun/research-study> (folders `panel` and `ai-margin-potential`): `fetch_sec.py` (SEC XBRL), `build_panel.py` (panel and models), `score.py` (score and test), with the data files and the outputs. All values marked as calculated are the author's arithmetic from the listed sources.
 
 ## Sources
 

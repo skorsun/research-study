@@ -229,6 +229,10 @@ Five numbers would make the AI effect easier to see. Investors, employees and an
 
 If revenue per person at these companies starts to rise clearly while headcount stays flat, the productivity story becomes visible in the reports. Until then, the reports show a technology that is in use everywhere. They also show that the reports cannot yet capture its value at the IT services vendors.
 
+## Data and text
+
+The text of this study (Markdown and PDF) is in the public repository <https://github.com/skorsun/research-study> (folder `ai-services-study`), together with a follow-up panel of 16 companies.
+
 ## Sources
 
 **EPAM**
