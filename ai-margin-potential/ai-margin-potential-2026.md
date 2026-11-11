@@ -273,7 +273,7 @@ With the base scenario and the score slope (0.25 pt per year for 10 score points
 4. **Seat counts at software companies priced per user.**
 5. **Share of fixed-price and outcome-based revenue** at vendors.
 
-## Questions from a student reader
+## FAQ
 
 A first-year student of business informatics read a draft of this paper and wrote 19 questions. This section gives the answers. Some questions caused corrections in the text.
 
