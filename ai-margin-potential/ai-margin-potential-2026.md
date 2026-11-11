@@ -309,7 +309,7 @@ They are coefficients: numbers that the regression calculates. b1 shows how much
 Equal weights are the simplest choice, and they do not adjust the score to the result. Weights chosen to fit this small sample would make the score look better than it is.
 
 **8. Is the score more than the label "product or vendor"?**
-No, not in this sample. The label alone gives a correlation of 0.75, and the score gives 0.72. Section 4.3 now shows this. The score tells you from the numbers how much a company looks like a product company. This can help for a company that has no clear label, but this paper cannot yet show that the score predicts better than the label.
+No, not in this sample. The label alone gives a correlation of 0.75, and the score gives 0.72. Section 4.3 shows this. The score tells you from the numbers how much a company looks like a product company. This can help for a company that has no clear label, but this paper cannot yet show that the score predicts better than the label.
 
 **9. Why use ln for revenue per person? Why does SAP get 73.6 and not 73.5?**
 Revenue per person goes from $45k to $1,446k, a factor of 32. On a linear scale, all vendors get almost 0, and SAP gets 0.19. The logarithm makes "two times more" the same step at every level. The worked example rounds each component to two decimals; the script uses all decimals (75.4, 62.9 and 56.3 on the 0–100 scale), so the result is 73.6.
@@ -323,11 +323,11 @@ It is not good in itself. A high overhead share means a large cost base that AI 
 **12. What does "reference" mean in Model B, and why does Accenture change from +2.8 to −2.2?**
 In Model B each value is a difference against one group, the reference group: vendors paid for time. Accenture's −2.2 is Accenture's change minus the vendors' change, after year effects. With one company, this value is not reliable. Read it as "no clear difference".
 
-**13. "More than 10 times faster" (2.5 against 0.2), but Model C gives 1.2 with SE 1.3. Which number is correct?**
-Both numbers are correct calculations, but Model C is the better test, and its result is not significant. The phrase "10 times faster" made the result look stronger than it is, so the text in 4.2 is changed.
+**13. Product companies +2.5 points per year against vendors +0.2 is more than 10 times. But Model C gives 1.2 with SE 1.3. Which number is correct?**
+Both numbers are correct calculations, but Model C is the better test, and its result is not significant. A ratio such as "10 times" makes the result look stronger than it is, because a small base (0.2) makes any ratio large.
 
-**14. SAP's restructuring was in 2024, but the base year is 2023. How can it change the base?**
-It cannot. The first draft had this mistake. The restructuring lowered the 2024 margin, not the 2023 margin. The corrected text in 4.3 explains the SAP gain as a return to its earlier margin level. One-time costs stay in the margin because each company defines its adjusted margin differently, and XBRL gives only the official margin (limit 6).
+**14. SAP's restructuring was in 2024, and the base year is 2023. Does the restructuring change the base?**
+No. The restructuring lowered the 2024 margin, not the 2023 margin. Section 4.3 explains the SAP gain as a return to its earlier margin level. One-time costs stay in the margin because each company defines its adjusted margin differently, and XBRL gives only the official margin (limit 6).
 
 **15. Why m = 1.3, and why +1.75 and +0.25 in the base scenario? Where does 0.025 come from?**
 The scenario values are assumptions, not results. m = 1.3 means that the part of the work that AI helps becomes 30% faster; this is a moderate value for illustration. The base rates are the middle of the ranges: products +1 to +2.5 (2.5 is the observed AI-period rate), vendors 0 to +0.5. The slope is 0.25 points per 10 score points, so 0.025 points per 1 score point.
@@ -342,7 +342,7 @@ The paper measures companies, not jobs. It shows that at a vendor paid for time,
 A seat is one paid user license. If a client needs fewer employees because of AI, it can buy fewer seats. Most companies in this study do not report seat counts. Signs in the reports are slower subscription revenue growth and a lower net revenue retention rate (how much existing customers pay this year compared with last year), when the company reports it.
 
 **19. What are a listed company and SSRN?**
-They are now in the Glossary.
+A listed company is a company whose shares are traded on a stock exchange. SSRN is a public website where researchers publish working papers. Both terms are in the Glossary.
 
 ## Glossary
 
