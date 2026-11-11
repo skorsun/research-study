@@ -1,0 +1,3 @@
+ticker,model,fy_end,currency,revenue_m,cost_of_revenue_m,operating_income_m,revenue_concept
+INFY,vendor_time,2026-03-31,USD,20160.0,,,"manual: FY26 $20.16B (analyticsindiamag.com; investywise.com), not yet in SEC XBRL"
+WIT,vendor_time,2026-03-31,INR,926240.0,,,"manual: FY26 gross revenue ₹926.2B (angelone.in; bajajbroking.in), not yet in SEC XBRL"
