@@ -275,7 +275,7 @@ With the base scenario and the score slope (0.25 pt per year for 10 score points
 
 ## FAQ
 
-A first-year student of business informatics read a draft of this paper and wrote 19 questions. This section gives the answers. Some questions caused corrections in the text.
+The author asked an AI assistant to read a draft of this paper as a first-year student of business informatics would read it, and to write the questions of such a reader. It wrote 19 questions. This section gives the answers. Some questions caused corrections in the text.
 
 **1. Product companies changed from 4.4% to 7.9% per year, and vendors from 2.9% to 4.4%. How can the difference be 0.0?**
 Do the difference-in-differences with the two group averages first:
