@@ -5,7 +5,7 @@ Two working papers by Serhii Korsunenko (November 2026). The papers use public c
 | Folder | Content |
 |---|---|
 | [`ai-services-study/`](ai-services-study/) | **Where Did the AI Productivity Go?** Four IT services companies (EPAM, Infosys, Cognizant, Accenture), mid-2024 against mid-2026. Paper as Markdown and PDF. |
-| [`ai-margin-potential/`](ai-margin-potential/) | **Who Keeps the AI Gain? A Margin-Potential Score for 16 Software and IT Services Companies.** Panel 2017–2026: revenue per person, operating margin and a score from 2023 data. Paper as Markdown and PDF. |
+| [`ai-margin-potential/`](ai-margin-potential/) | **Who Keeps the AI Gain? A Margin-Potential Score for 16 Software and IT Services Companies.** Panel 2017–2026: revenue per person, operating margin and a score from 2023 data. Paper as Markdown and PDF, and the score script with its output. |
 | [`panel/`](panel/) | Data and code for the 16-company panel: SEC XBRL financials, headcount, the panel file and the models. |
 
 ## Links
