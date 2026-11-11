@@ -10,6 +10,7 @@
 | [`score.csv`](score.csv) | Output: score, components and margin change for each company |
 | [`results.json`](results.json) | Output: the same values and the test statistics (correlation, slope, leave-one-out) |
 
+- SSRN: https://ssrn.com/abstract=7691398
 - Web version: https://serhii.korsunenko.com/articles/ai-margin-potential/
 - Data and panel code: [`../panel/`](../panel/)
 

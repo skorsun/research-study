@@ -12,6 +12,7 @@ Two working papers by Serhii Korsunenko (November 2026). The papers use public c
 
 - Web version of both papers: https://serhii.korsunenko.com
 - "Where Did the AI Productivity Go?" on SSRN: https://ssrn.com/abstract=7687580
+- "Who Keeps the AI Gain?" on SSRN: https://ssrn.com/abstract=7691398
 
 ## Main results
 
@@ -33,7 +34,7 @@ The sources of each value are listed in the papers and in [`panel/README.md`](pa
 The papers are licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Cite as:
 
 - Korsunenko, S. (2026). Where Did the AI Productivity Go? Four IT Services Companies, Two Years, Public Numbers Only. SSRN working paper 7687580.
-- Korsunenko, S. (2026). Who Keeps the AI Gain? A Margin-Potential Score for 16 Software and IT Services Companies. Working paper.
+- Korsunenko, S. (2026). Who Keeps the AI Gain? A Margin-Potential Score for 16 Software and IT Services Companies. SSRN working paper 7691398.
 
 ## Disclaimer
 
